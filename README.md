@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @knobizehe
 - 👀 I’m interested in object-oriented programming & security
 - 🌱 I’m currently learning a'lot of basics - also due to college
-- 📫 knobizehe@riseup.net
 
 <!---
 knobizehe/knobizehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

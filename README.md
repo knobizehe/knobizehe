@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knobizehe
-- 👀 I’m interested in object-oriented programming & security
+- 👀 I’m interested in object-oriented programming, python & security
 - 🌱 I’m currently learning a'lot of basics - also due to college
 
 <!---
